@@ -14,7 +14,5 @@ public class Programa02CC {
         Singleton s=Singleton.getInstance();
         
         s.imprimir();
-        
-        //System.out.println("Hello World!");
     }
 }
