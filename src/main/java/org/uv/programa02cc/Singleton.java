@@ -25,6 +25,7 @@ public class Singleton {
     }
     
     public void imprimir(){
+        
         Logger.getLogger(Singleton.class.getName()).log(Level.INFO, "Hola mundo...");
     }
 }
